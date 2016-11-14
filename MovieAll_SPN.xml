@@ -15,7 +15,7 @@
 			<month>Feb</month>
 			<year>2012</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Letters To Juliet</name>
@@ -34,7 +34,7 @@
 			<month>May</month>
 			<year>2010</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>In Time</name>
@@ -51,7 +51,7 @@
 			<month>Oct</month>
 			<year>2011</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Last Airbender</name>
@@ -69,7 +69,7 @@
 			<month>Jul</month>
 			<year>2010</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Da Vinci Code</name>
@@ -86,7 +86,7 @@
 			<month>May</month>
 			<year>2006</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Sorcerer's Apprentice</name>
@@ -104,7 +104,7 @@
 			<month>Jul</month>
 			<year>2010</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Harry Potter</name>
@@ -121,7 +121,7 @@
 			<month>Nov</month>
 			<year>2001</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Inception</name>
@@ -138,7 +138,7 @@
 			<month>Jul</month>
 			<year>2010</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Upside Down</name>
@@ -156,7 +156,7 @@
 			<month>Aug</month>
 			<year>2012</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Cloud Atlas</name>
@@ -174,7 +174,7 @@
 			<month>Oct</month>
 			<year>2012</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Predestination</name>
@@ -193,7 +193,7 @@
 			<month>Oct</month>
 			<year>2014</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Captain America: Civil War</name>
@@ -212,7 +212,7 @@
 			<month>Apr</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Shawshank Redemption</name>
@@ -230,7 +230,7 @@
 			<month>Oct</month>
 			<year>1994</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Lucy</name>
@@ -250,7 +250,7 @@
 			<month>Aug</month>
 			<year>2014</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Forrest Gump</name>
@@ -269,7 +269,7 @@
 			<month>Jul</month>
 			<year>1994</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Terminal</name>
@@ -289,7 +289,7 @@
 			<month>Sep</month>
 			<year>2004</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Girl with the Dragon Tattoo</name>
@@ -308,7 +308,7 @@
 			<month>Dec</month>
 			<year>2011</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Kingsman: The Secret Service</name>
@@ -327,7 +327,7 @@
 			<month>Feb</month>
 			<year>2015</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Sky High</name>
@@ -346,7 +346,7 @@
 			<month>Jul</month>
 			<year>2005</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Zoolander</name>
@@ -364,7 +364,7 @@
 			<month>Feb</month>
 			<year>2002</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Suicide Squad</name>
@@ -384,7 +384,7 @@
 			<month>Aug</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Justice League</name>
@@ -404,7 +404,7 @@
 			<month>Nov</month>
 			<year>2017</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Resident Evil: The Final Chapter</name>
@@ -424,7 +424,7 @@
 			<month>Jan</month>
 			<year>2017</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Rogue One: A Star Wars Story</name>
@@ -444,7 +444,7 @@
 			<month>Dec</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Star Trek Beyond</name>
@@ -464,7 +464,7 @@
 			<month>Jul</month>
 			<year>16</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Batman v Superman: Dawn of Justice</name>
@@ -484,7 +484,7 @@
 			<month>Mar</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Ghostbusters</name>
@@ -504,7 +504,7 @@
 			<month>Jul</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Secret Life of Pets</name>
@@ -523,7 +523,7 @@
 			<month>Jul</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Fast 8</name>
@@ -542,7 +542,7 @@
 			<month>Apr</month>
 			<year>2017</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Lights Out</name>
@@ -560,7 +560,7 @@
 			<month>Jul</month>
 			<year>2016</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Avenger</name>
@@ -580,7 +580,7 @@
 			<month>May</month>
 			<year>2012</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Avenger 2 : Age of Altron</name>
@@ -600,7 +600,7 @@
 			<month>May</month>
 			<year>2015</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Ironman</name>
@@ -620,7 +620,7 @@
 			<month>May</month>
 			<year>2008</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Ironman 2</name>
@@ -640,7 +640,7 @@
 			<month>May</month>
 			<year>2010</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Ironman 3</name>
@@ -660,7 +660,7 @@
 			<month>May</month>
 			<year>2013</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>The Incredible Hulk</name>
@@ -680,7 +680,7 @@
 			<month>Jun</month>
 			<year>2008</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Thor</name>
@@ -700,7 +700,7 @@
 			<month>May</month>
 			<year>2012</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Thor The Dark World</name>
@@ -720,7 +720,7 @@
 			<month>Nov</month>
 			<year>2013</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Ant Man</name>
@@ -740,7 +740,7 @@
 			<month>Jul</month>
 			<year>2015</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 	<movie>
 		<name>Captain America: The Winter Soldier</name>
@@ -760,7 +760,7 @@
 			<month>Apr</month>
 			<year>2014</year>
 		</date>
-	</movie>
+	<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Concussion</name>
@@ -778,7 +778,7 @@
 			<month>Dec</month>
 			<year>2015</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>In the Heart of the Sea</name>
@@ -796,7 +796,7 @@
 			<month>Dec</month>
 			<year>2015</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Joy</name>
@@ -814,7 +814,7 @@
 			<month>Feb</month>
 			<year>2016</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Danish Girl</name>
@@ -832,7 +832,7 @@
 			<month>Feb</month>
 			<year>2016</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Room</name>
@@ -848,7 +848,7 @@
 			<month>Jun</month>
 			<year>2016</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Spotlight</name>
@@ -866,7 +866,7 @@
 			<month>Jun</month>
 			<year>2016</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Revenant</name>
@@ -884,7 +884,7 @@
 			<month>Feb</month>
 			<year>2016</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Imitation Game</name>
@@ -902,7 +902,7 @@
 			<month>Jun</month>
 			<year>2015</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Interstellar</name>
@@ -920,7 +920,7 @@
 			<month>Nov</month>
 			<year>2014</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Martian</name>
@@ -938,7 +938,7 @@
 			<month>Oct</month>
 			<year>2015</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Back to the Future</name>
@@ -956,7 +956,7 @@
 			<month>Jul</month>
 			<year>1985</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Back to the Future II</name>
@@ -974,7 +974,7 @@
 			<month>Nov</month>
 			<year>1989</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Back to the Future III</name>
@@ -992,7 +992,7 @@
 			<month>May</month>
 			<year>1990</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>Batman Begins</name>
@@ -1009,7 +1009,7 @@
 			<month>Jun</month>
 			<year>2005</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Dark Knight</name>
@@ -1027,7 +1027,7 @@
 			<month>Jul</month>
 			<year>2008</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Dark Knight Rises</name>
@@ -1044,7 +1044,7 @@
 			<month>Jul</month>
 			<year>2012</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Matrix I</name>
@@ -1061,7 +1061,7 @@
 			<month>Mar</month>
 			<year>1999</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Matrix II</name>
@@ -1078,7 +1078,7 @@
 			<month>May</month>
 			<year>2003</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Matrix III</name>
@@ -1095,7 +1095,7 @@
 			<month>Nov</month>
 			<year>2003</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 <movie>
 	<name>The Lobster</name>
@@ -1113,6 +1113,6 @@
 			<month>Nov</month>
 			<year>2015</year>
 		</date>
-</movie>
+<time>100</time><resolution>HD</resolution></movie>
 
 </film>
